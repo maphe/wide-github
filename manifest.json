@@ -10,7 +10,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://github.com/*", "https://gist.github.com/*"],
+      "matches": ["https://github.com/*", "https://spore.marinsoftware.com/*", "https://gist.github.com/*"],
       "css": ["wide-github.css"]
     }
   ],
